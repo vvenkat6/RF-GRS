@@ -1,0 +1,11 @@
+Package: RFPRS
+Type: Package
+Title: Random Forest Polygenic Risk Score Calculation
+Version: 0.1.0
+Authors@R: person("Vaishnavi Venkat", email = "vaishu.ruby@gmail.com", role = c("aut", "cre"))
+Description: This package computes polygenic risk scores using Random Forest. Supports clumping and thresholding approaches (ctRF, cRF, tRF).
+Depends: R (>= 4.0), randomForest, ranger, bigsnpr, glmnet, parallel, Metrics
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
