@@ -1,5 +1,5 @@
 # RF-GRS
-{RF-GRS} is an R package to compute polygenic risk score using random forest.
+{RF-GRS} is an R wrapper package that integrates existing tools and algorithms to facilitate the computation of genetic risk scores using random forest
 
 ## Installation
 In R, run
